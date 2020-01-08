@@ -1,0 +1,24 @@
+{
+  "name": "api-gateway-fastify",
+  "version": "1.0.0",
+  "description": "API Gateway feita com Fastify.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksonpereira/api-gateway-fastify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacksonpereira/api-gateway-fastify/issues"
+  },
+  "homepage": "https://github.com/jacksonpereira/api-gateway-fastify#readme",
+  "dependencies": {
+    "fastify": "^2.11.0",
+    "fastify-http-client": "^1.0.0",
+    "fastify-http-proxy": "^2.3.0"
+  }
+}
