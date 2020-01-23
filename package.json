@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jacksonpereira/api-gateway-fastify#readme",
   "dependencies": {
+    "axios": "^0.19.1",
+    "cors": "^2.8.5",
     "fastify": "^2.11.0",
     "fastify-http-client": "^1.0.0",
     "fastify-http-proxy": "^2.3.0"

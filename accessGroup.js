@@ -1,6 +1,6 @@
-module.exports = () =>{
+module.exports = () => {
     accessGroup = [
-        "localhost:3001"
+        "localhost:3000"
     ]
 
     return {
